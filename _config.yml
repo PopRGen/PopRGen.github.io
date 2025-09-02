@@ -3,5 +3,5 @@ description:
 theme: jekyll-theme-architect
 
 
-stylesheets:
-  - "/assets/css/style.css"
+#stylesheets:
+#  - "/assets/css/style.css"
